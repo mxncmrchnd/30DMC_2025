@@ -122,5 +122,5 @@
 
 ## Day 27 and 27 : Boundaries and Black
 <p align="center">
-  <img src="assets/30dmc_27_28.jpg" alt="Day 27 and 28">
+  <img src="assets/30dmc_27_28.png" alt="Day 27 and 28">
 </p>
